@@ -16,7 +16,9 @@ perl -MCPAN -e 'install Bundle::SimpleScan'
 
 =head1 CONTENTS
 
-App::SimpleScan 1.05
+App::SimpleScan 1.12
+
+App::SimpleScan::Plugin::Snapshot 1.03
 
 App::SimpleScan::Plugin::Cache 0.02
 
@@ -37,6 +39,8 @@ WWW::Mechanize::Plugin::HelloWorld undef
 WWW::Mechanize::Plugin::Retry 0.04
 
 WWW::Mechanize::Plugin::Snapshot 0.19
+
+WWW::Mechanize::Plugin::phpBB 0.01
 
 =head1 CONFIGURATION
 
